@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9550191000517091
+  lightness: 0.8340187000266114
+  rhythmicContrast: 0.9831955041092196
+  saturation: 0.7040003774467462
+cta: {}
+layout_spectrum: 0.05191376433896455
+name: RodClark
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.4488952495906102
