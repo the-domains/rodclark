@@ -1,4 +1,4 @@
-analytics: {}
+typography_spectrum: 0.4488952495906102
 color:
   brandColors:
     - '#A8B8C0'
@@ -10,9 +10,10 @@ color:
   lightness: 0.834018
   rhythmicContrast: 0.983195
   saturation: 0.704
-cta: {}
-layout_spectrum: 0.05191376433896455
-name: RodClark
 opengraph: {}
+layout_spectrum: 0.05191376433896455
+analytics: {}
+name: RodClark
+cta: {}
+title: soyouthinkyouknowaboutdesign
 purpose: {}
-typography_spectrum: 0.4488952495906102
