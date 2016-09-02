@@ -17,6 +17,10 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb32eec7-a2db-4823-9d0a-7d29a08c2d2d.jpg
 name: RodClark
 cta: {}
+navigation:
+  - name: design philosophy book
+    url: 'http://www.soyouthinkyouknowaboutdesign.com'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/68c142ef-d62a-448f-b7ef-9532ce685993.jpg
 title: soyouthinkyouknowaboutdesign
