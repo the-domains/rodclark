@@ -18,7 +18,7 @@ logo: >-
 name: RodClark
 cta: {}
 navigation:
-  - name: design philosophy book
+  - name: 'my book: design philosophy'
     url: 'http://www.soyouthinkyouknowaboutdesign.com'
     type: external
 favicon: >-
