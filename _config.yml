@@ -13,6 +13,10 @@ color:
 opengraph: {}
 layout_spectrum: 0.05191376433896455
 analytics: {}
+author:
+  name: Rod Clark
+  email: 157@mistral.co.uk
+  url: rodclark.org
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb32eec7-a2db-4823-9d0a-7d29a08c2d2d.jpg
 name: RodClark
