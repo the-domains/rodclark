@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[6812]]></title>
+        <description><![CDATA[6812]]></description>
+        <link>https://thegrid.ai/rodclark/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 01 Sep 2016 11:02:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rodclark/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A_12_r_27]]></title>
+            <description><![CDATA[<article><h1>A_12_r_27</h1><p>grid combinations</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3dd4531e-b559-4556-84cd-ed1528b16e54.jpg"></article>]]></description>
+            <link>https://thegrid.ai/rodclark/a_12_r_27/index.html</link>
+            <guid isPermaLink="false">f88cd124-d817-4a6c-9cc9-59ccb645dff6</guid>
+            <pubDate>Thu, 01 Sep 2016 11:02:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
+            <link>https://thegrid.ai/rodclark/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">2f2fb5e3-2c02-4a65-95e2-468ffcbb43c7</guid>
+            <pubDate>Wed, 31 Aug 2016 23:58:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
