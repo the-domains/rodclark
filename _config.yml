@@ -1,17 +1,17 @@
-typography_spectrum: 0.4488952495906102
+layout_spectrum: 0.05191376433896455
+typography_spectrum: 0.3957549617625773
 color:
   brandColors:
-    - '#A8B8C0'
-    - '#0098A8'
-    - '#687878'
-    - '#00B0C0'
-    - '#A0D8F0'
-  brandStrength: 0.955019
-  lightness: 0.834018
-  rhythmicContrast: 0.983195
-  saturation: 0.704
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  brandStrength: 0.41186203830875456
+  lightness: 0.7639416609890759
+  rhythmicContrast: 0.17088589072227478
+  saturation: 0.794174863724038
 opengraph: {}
-layout_spectrum: 0.05191376433896455
 analytics: {}
 author:
   name: Rod Clark
